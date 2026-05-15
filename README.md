@@ -612,7 +612,7 @@ Distill accepts any text input with instructor speech. No specific format requir
 | Manual | Paste directly into the text area |
 | Word doc | Upload `.docx` — text is extracted automatically |
 
-Minimum 100 characters. There is no maximum — the map-reduce pipeline handles transcripts of any length.
+Minimum 100 characters. There is no maximum, the map-reduce pipeline handles transcripts of any length.
 
 ---
 
