@@ -17,7 +17,7 @@ Distill turns any Teams / Zoom / Google Meet transcript into a complete learning
 
 All processing happens locally. No data leaves your machine when using Ollama or LM Studio.
 
----
+-----
 
 ## Architecture
 
